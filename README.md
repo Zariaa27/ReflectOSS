@@ -5,3 +5,5 @@
 ***
 
 ## What's RFLCT?
+
+RFLCT is an online or self-hostable diary for you to keep track of certain things that mark your days.
